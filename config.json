@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpercncrypt",
+        "uuid": 708381,
+        "checksum": "e6vno"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
